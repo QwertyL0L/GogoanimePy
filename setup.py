@@ -11,9 +11,9 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     license='License :: OSI Approved :: GNU Lesser General Public License v3 (LGPLv3)',
-    author='otakatsu',
-    author_email='moezilla@otakatsu.studio',
-    url='https://github.com/otakatsu/gogoanimepy.git',
+    author='QwertyL0L',
+    author_email='twobuilderrrnoobyt@gmail.com',
+    url='https://github.com/QwertyL0L/GogoanimePy.git',
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
